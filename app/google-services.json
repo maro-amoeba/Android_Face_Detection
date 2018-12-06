@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "830418048465",
+    "firebase_url": "https://fir-218117.firebaseio.com",
+    "project_id": "firebase-218117",
+    "storage_bucket": "firebase-218117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830418048465:android:ea058358ec9169ad",
+        "android_client_info": {
+          "package_name": "com.example.amoeba.face_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830418048465-s8s91f44ddas0pqu5e4ceicjhao05rcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABoWg95Qu2jaPSVROCXsCY5NBhtYfIn-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
