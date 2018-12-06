@@ -9,10 +9,10 @@ Face Detection with Android
 firebase-ml-visionを利用しています。  
 https://firebase.google.com/docs/ml-kit/android/detect-faces
 
-カメラ機能は  
+カメラ機能  
 CameraKit が利用されています  
 https://github.com/CameraKit/camerakit-android
 
-ローディング画面  
+ローディング画面演出  
 Spots progress dialog が利用されています。  
 https://github.com/d-max/spots-dialog
