@@ -1,8 +1,9 @@
 # Android_Face_Detection
 Face Detection with Android
 
-# Description
-このアプリはローカル環境で動作させることを想定して作りました。
+# Overview
+アンドロイドカメラを用いて、撮影した画像内の人の顔を矩形で検出します。
+アプリはローカル環境で動作させることを想定して作りました。
 
 認識機能  
 firebase-ml-visionを利用しています。  
