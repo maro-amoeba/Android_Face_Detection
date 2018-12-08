@@ -1,6 +1,7 @@
-# Android_Face_Detection
-Face Detection with Android
-![screenshot 1](https://user-images.githubusercontent.com/37995730/49683790-b5520c80-fb0d-11e8-91f2-7cb357464f93.jpg)
+# Android_Face_Detection  
+Face Detection with Android  
+![screenshot 1](https://user-images.githubusercontent.com/37995730/49683790-b5520c80-fb0d-11e8-91f2-7cb357464f93.jpg)  
+「今日は私の誕生日だよ！」と彼に伝える放課後女子高生／写真素材ぱくたそ
 
 # Overview
 アンドロイドカメラを用いて、撮影した画像内の人の顔を矩形で検出します。  
