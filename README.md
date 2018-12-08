@@ -1,5 +1,7 @@
 # Android_Face_Detection
 Face Detection with Android
+![screenshot](https://user-images.githubusercontent.com/37995730/49683765-660bdc00-fb0d-11e8-9407-58aee691457b.jpg)
+
 
 # Overview
 アンドロイドカメラを用いて、撮影した画像内の人の顔を矩形で検出します。  
